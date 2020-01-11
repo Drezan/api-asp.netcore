@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {}
+    "c:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {
+    "c:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
+        "projectUniqueName": "c:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
         "projectName": "ContosoPets.Api",
-        "projectPath": "C:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
+        "projectPath": "c:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\ContosoPets.Api.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\obj\\",
+        "outputPath": "c:\\Users\\Andrés\\Documents\\Cursos Aleatorios\\apiaspnet\\contoso-pets\\src\\ContosoPets.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrés\\AppData\\Roaming\\NuGet\\NuGet.Config"
